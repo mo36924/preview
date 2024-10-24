@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "lib": ["es2020"],
+    "module": "es2020",
+    "moduleResolution": "bundler",
+    "checkJs": true,
+    "strict": true,
+    "noEmit": true,
+    "sourceMap": true,
+    "skipLibCheck": true
+  },
+  "exclude": ["dist"]
+}
